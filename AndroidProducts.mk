@@ -10,6 +10,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_rpi5_tv.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_rpi5-userdebug \
-    aosp_rpi5_car-userdebug \
-    aosp_rpi5_tv-userdebug
+    aosp_rpi5-trunk_staging-userdebug \
+    aosp_rpi5_car-trunk_staging-userdebug \
+    aosp_rpi5_tv-trunk_staging-userdebug
