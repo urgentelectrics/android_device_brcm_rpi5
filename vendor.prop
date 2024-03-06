@@ -80,3 +80,6 @@ persist.device_config.mglru_native.lru_gen_config=core
 # Wifi
 wifi.interface=wlan0
 
+# Window extensions
+persist.settings.large_screen_opt.enabled=true
+
