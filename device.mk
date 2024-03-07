@@ -149,6 +149,10 @@ PRODUCT_SET_DEBUGFS_RESTRICTIONS := false
 PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey
 
+# Emergency info
+PRODUCT_PACKAGES += \
+    EmergencyInfo
+
 # Ethernet
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.ethernet.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.ethernet.xml
