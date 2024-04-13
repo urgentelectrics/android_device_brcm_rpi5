@@ -7,6 +7,6 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BTM_DEF_LOCAL_NAME "Raspberry Pi 5"
+#define BTM_DEF_LOCAL_NAME "Hummer H2"
 
 #endif
